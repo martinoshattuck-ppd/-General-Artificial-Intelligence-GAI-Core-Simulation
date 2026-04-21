@@ -1,4 +1,18 @@
-# AI Decision Engine (Plug & Play) Core Simulation ## Overview **GAICore** is a Python-based simulation framework that models the fundamental components of a General Artificial Intelligence (GAI) system. It integrates **perception, reasoning, learning, adaptation, and interaction** into a unified architecture. The framework combines **symbolic reasoning** (decision trees) with **sub-symbolic reasoning** (neural networks), allowing hybrid decision-making processes that adapt dynamically to environmental feedback. This project is intended for **researchers, students, and practitioners** exploring AI system design, hybrid reasoning, and adaptive intelligence. --- ## Features - **Perception**: Processes environment data, extracts statistical patterns, and detects anomalies. - **Reasoning**: Utilizes a hybrid reasoning system: - *Decision Tree Classifier* for symbolic, rule-based reasoning. - *Neural Network Regressor* for sub-symbolic, data-driven inference. - **Learning**: Continuously trains internal models using environment data and feedback. - **Adaptation**: Updates internal memory and adjusts strategies based on positive or negative feedback. - **Interaction**: Simulates intelligent agent-environment interactions with reasoning cycles and learning refinement. --- ## Installation ### Requirements - Python 3.8+ - NumPy - scikit-learn ### Setup Clone the repository and install dependencies:
+# AI Decision Engine (Plug & Play) Core Simulation ## Overview **GAICore** is a Python-based simulation framework that models the fundamental components of a General Artificial Intelligence (GAI) system.## 💰 Why Use GAICore?
+
+Most AI tools require heavy setup, training, and tuning.
+
+GAICore works instantly.
+
+✔ No dataset required  
+✔ Hybrid reasoning (rules + neural network)  
+✔ Plug-and-play decision engine  
+✔ Returns explainable results  
+
+Use it to:
+- Build AI-powered apps fast
+- Generate intelligent decisions from raw data
+- Prototype machine learning systems in minutes It integrates **perception, reasoning, learning, adaptation, and interaction** into a unified architecture. The framework combines **symbolic reasoning** (decision trees) with **sub-symbolic reasoning** (neural networks), allowing hybrid decision-making processes that adapt dynamically to environmental feedback. This project is intended for **researchers, students, and practitioners** exploring AI system design, hybrid reasoning, and adaptive intelligence. --- ## Features - **Perception**: Processes environment data, extracts statistical patterns, and detects anomalies. - **Reasoning**: Utilizes a hybrid reasoning system: - *Decision Tree Classifier* for symbolic, rule-based reasoning. - *Neural Network Regressor* for sub-symbolic, data-driven inference. - **Learning**: Continuously trains internal models using environment data and feedback. - **Adaptation**: Updates internal memory and adjusts strategies based on positive or negative feedback. - **Interaction**: Simulates intelligent agent-environment interactions with reasoning cycles and learning refinement. --- ## Installation ### Requirements - Python 3.8+ - NumPy - scikit-learn ### Setup Clone the repository and install dependencies:
 bash
 git clone https://github.com/yourusername/gaicore.git
 cd gaicore
