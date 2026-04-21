@@ -31,6 +31,6 @@ Reasoned decision: Neural reasoning: Predicted value 0.732.
 Adapted to feedback: {'success': True, 'details': 'System response aligned with expectations.'}
 --- ## Project Structure
 gaicore.py       # Main GAICore simulation framework
-README.md        # Documentation
+README.        # Documentation
 requirements.txt # Project dependencies
 --- ## Roadmap - [ ] Integrate reinforcement learning for autonomous policy updates - [ ] Expand reasoning engine with probabilistic logic - [ ] Add persistent memory and long-term learning modules - [ ] Implement visualization dashboard for reasoning cycles - [ ] Extend environment simulation with richer datasets
