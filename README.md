@@ -1,4 +1,4 @@
-# AI Decision Engine (Plug & Play) Core Simulation ## Overview **GAICore** is a Python-based simulation framework that models the fundamental components of a General Artificial Intelligence (GAI) system.## 💰 Why Use GAICore?
+# General Artificial Intelligence (GAI) Core Simulation ## Overview **GAICore** is a Python-based simulation framework that models the fundamental components of a General Artificial Intelligence (GAI) system.## 💰 Why Use GAICore?
 
 Most AI tools require heavy setup, training, and tuning.
 
